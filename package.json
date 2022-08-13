@@ -1,10 +1,12 @@
 {
   "name": "josh_web_util",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "typescript": "^4.7.4"
   },
