@@ -4,6 +4,7 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
+    "declaration": true,
     "allowSyntheticDefaultImports": true
   },
   "include": [
