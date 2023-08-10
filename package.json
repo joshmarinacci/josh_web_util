@@ -1,6 +1,6 @@
 {
   "name": "josh_web_util",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "exports": {
     "import": "./dist/index.js"
