@@ -2,7 +2,9 @@
   "name": "josh_web_util",
   "version": "0.0.4",
   "description": "",
-  "module": "dist/index.js",
+  "exports": {
+    "import": "./dist/index.js"
+  },
   "types": "dist/index.d.ts",
   "files": [
     "dist"
